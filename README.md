@@ -6,7 +6,7 @@ Este repositório contém um projeto simples que foi criado como parte do meu ap
 
 O aplicativo exibe uma animação interativa de sementes (representadas por pontos) que vão crescendo conforme o usuário interage com o controle de deslizamento (slider). Quando o número de sementes atinge o valor máximo, uma mensagem especial é exibida no centro da tela.
 
-![Simulação do Crescimento do Coração]
+Simulação do Crescimento do Coração
 
 ![Captura de tela 2025-01-12 163505](https://github.com/user-attachments/assets/1b891a77-e329-4a14-8d13-7b372b2d20bb)]
 ![Captura de tela 2025-01-12 163546](https://github.com/user-attachments/assets/d1f3247b-a7df-4df7-9b9e-0996289399ef)
