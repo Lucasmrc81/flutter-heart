@@ -28,7 +28,7 @@ Simulação do Crescimento do Coração
 ## Como Rodar o Projeto
 
 1. Clone o repositório para sua máquina local:
-git clone https://github.com/Lucasmrc81/flutter-sunflower.git
+git clone https://github.com/Lucasmrc81/flutter-heart.git
 
 arduino
 Copiar código
